@@ -1,0 +1,8 @@
+{
+  "name": "Remix DocuPerfect",
+  "description": "Professional PDF generator ensuring pixel-perfect layouts, custom styling, and seamless task management for your business reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
